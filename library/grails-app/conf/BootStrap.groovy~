@@ -1,0 +1,17 @@
+import com.library.*
+class BootStrap {
+
+class BootStrap{
+def init = { servletContext ->
+		def librarian1= new Librarian( name: 'Adam Clow',
+		email: 'adamclow@librarian.com',		
+		userName: 'AdamClow',
+		password: 'potters1',
+		telephone: '01773828360').save()
+		
+
+}
+def destroy={
+}
+}
+
