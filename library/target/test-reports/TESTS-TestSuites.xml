@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-  <testsuite errors="0" failures="0" hostname="debian23006503" id="0" name="LibrarianSpec" package="com.library" tests="1" time="5.217" timestamp="2015-03-09T12:04:52">
+  <testsuite errors="0" failures="0" hostname="debian23006503" id="0" name="LibrarianSpec" package="com.library" tests="1" time="4.957" timestamp="2015-03-16T12:40:10">
       <properties />
 
-      <testcase classname="com.library.LibrarianSpec" name="test toString" time="5.094" />
+      <testcase classname="com.library.LibrarianSpec" name="test toString" time="4.81" />
 
       <system-out><![CDATA[--Output from test toString--
 ]]></system-out>
