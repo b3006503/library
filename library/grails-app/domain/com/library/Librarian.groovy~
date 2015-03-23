@@ -18,6 +18,8 @@ email()
 userName()
 password()
 telephone()
+username()
+password()
 
     }
 }
