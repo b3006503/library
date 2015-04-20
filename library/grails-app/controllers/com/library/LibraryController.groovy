@@ -20,7 +20,7 @@ class LibraryController {
         if(params.id && Library.exists(params.id)){
 	render Library.findById(params.id) as XML
 	}else{
-	render Books.list() as XML
+	render Book.list() as XML
 }
     }
 

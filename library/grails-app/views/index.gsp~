@@ -14,7 +14,7 @@
 
 
 <div class="homeCell">
- <h3>Add Book</h3>
+ <h3>Add a Book</h3>
  <p> </p>
  <span class="buttons" >
  <g:link controller="book" action="create">Add Book</g:link>
@@ -32,7 +32,7 @@
 
 
 <div class="homeCell">
- <h3>List Student</h3>
+ <h3>Add Students</h3>
  <p></p>
  <span class="buttons" >
  <g:link controller="student" action="show"> List Student</g:link>
