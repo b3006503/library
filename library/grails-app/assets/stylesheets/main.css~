@@ -1,7 +1,7 @@
 /* FONT STACK */
 body,
 input, select, textarea {
-	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-family: "Comic Sans MS", "Helvetica Neue Light", "Helvetica Neue", Helvetica, "Arial-black", Verdana, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -37,7 +37,7 @@ html * {
 }
 
 body {
-	background: #EFE14E;
+	background: #F4F1BC;
 	color: #333333;
 	margin: 0 auto;
 	max-width: 960px;
@@ -48,7 +48,7 @@ body {
 }
 
 #grailsLogo {
-	background-color: #D55353;
+	background-color: #ffffff;
 }
 
 /* replace with .no-boxshadow body if you have modernizr available */
@@ -75,30 +75,30 @@ a:hover, a:active {
 h1 {
 	color: #48802c;
 	font-weight: normal;
-	font-size: 1.25em;
+	font-size: 3em;
 	margin: 0.8em 0 0.3em 0;
 }
 
 ul {
-	padding: 0;
+	padding: 1;
 }
 
 img {
-	border: 0;
+	border: 1;
 }
 
 /* GENERAL */
 
 #grailsLogo a {
 	display: inline-block;
-	margin: 1em;
+	margin: 0.5em;
 }
 
 .content {
 }
 
 .content h1 {
-	border-bottom: 1px solid #CCCCCC;
+	border-bottom: 3px solid #CCCCCC;
 	margin: 0.8em 1em 0.3em;
 	padding: 0 0.25em;
 }
